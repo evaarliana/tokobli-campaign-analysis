@@ -16,11 +16,15 @@ The analysis evaluates campaign effectiveness, identifies high-performing produc
 
 ## Tools
 
-* Microsoft Excel
 * Google Sheets
+
+## Analysis Methods
+
+* Data Cleaning
 * Descriptive Statistics
+* Campaign Performance Analysis
+* Product Category Analysis
 * A/B Testing
-* Business Analysis
 
 ## Key Findings
 
